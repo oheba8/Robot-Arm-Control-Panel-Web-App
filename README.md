@@ -25,3 +25,4 @@ Setup Instructions
  3 Create get_run_pose.php to fetch poses from the database.
  4 Create update_status.php to set pose status to 0.
 
+http://localhost/robot_project/index.php
